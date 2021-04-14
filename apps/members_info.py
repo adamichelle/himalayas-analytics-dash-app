@@ -18,7 +18,6 @@ from dataframes import df_members
 from dataframes import df_members_wo_dual_citizenship
 from dataframes import df_members_dual_citizenship
 from dataframes import df_members_death_cause
-from geocode_helper import findGeocode
 
 
 MAPBOX_ACCESS_TOKEN = os.getenv('MAPBOX_ACCESS_TOKEN')
